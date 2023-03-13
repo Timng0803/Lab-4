@@ -1,6 +1,6 @@
 ENGO651-lab4
 
-Group 4: Cheuk Him, NG (30183823); Shang Feng, Huang (30163965)
+Group 4: Cheuk Him, NG (30183823); Shang Feng, HUANG (30163965)
 
 This project adds one more layer of the traffic incidents map on top of the building permits in Calgary website previously made in lab 3 in a mapping front-end. In this website, the users can toggle on and off the traffic incidents layer by using the layer control box. Users can always use the website to search on building permits no matter the traffic incidents map layer is on or off.
 
